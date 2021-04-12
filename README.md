@@ -1,11 +1,25 @@
-NGICDP_Div3_SKKU
-================
-차세대 정보 컴퓨팅 기술 개발 사업
+# 차세대정보컴퓨팅기술개발사업 실적 정리
+
+## 과제 정보
+
+| 항목 | 내용 |
+| - | - |
+| 사업명              | 원천기술개발사업 > 차세대정보컴퓨팅기술개발사업              |
+| 지원기관            | 과학기술정보통신부 > 한국연구재단                            |
+| 과제번호            | 2017M3C4A706817923                                           |
+| 과제명              | 지능형 자동화를 통한 풀스택 SW 디버깅                        |
+| 총괄 연구책임자     | KAIST 김문주 [moonzoo_at_cs.kaist.ac.kr](mailto:moonzoo@cs.kaist.ac.kr) |
+| 세부과제명          | (3세부) 지능형 자동화를 통한 출스택 SW의 다중언어 검증 및 디버깅 |
+| 세부과제 연구책임자 | KAIST 유신 [shin.yoo_at_kaist.ac.kr](mailto:shin.yoo@kaist.ac.kr) |
+| 본 실적의 교신저자  | 성균관대학교 이은석 [leees_at_skku.edu](mailto:leees@skku.edu) |
 
 ## ToC
 - [2단계 1차년도(2018.06 ~ 2019.05)](#2단계-1차년도201806--201905)
+  - 국제학회 2건
 - [2단계 2차년도(2019.06 ~ 2020.03)](#2단계-2차년도201906--202003)
+  - 국제학술지 2건, 국내학회 1건
 - [2단계 3차년도(2020.04 ~ 2021.03)](#2단계-3차년도202004--202103)
+  - 국제학술지 4건, 국내학술지 2건, 국제학회 1건, 국내학회 2건, 공개발표회 1건
 
 ## 2단계 1차년도(2018.06 ~ 2019.05)
 ### Improving the Efficiency of Search-Based Auto Program Repair by Adequate Modification Point
@@ -32,6 +46,7 @@ organization={Springer}
 ```
 ---
 ## 2단계 2차년도(2019.06 ~ 2020.03)
+* 학술지(국제 3건, 국내 2건), 학회(국제 1건, 국내 3건)
 ### VFL: Variable-based fault localization
 ```tex
 @article{kim2019vfl,
@@ -70,6 +85,7 @@ organization={한국정보과학회, 한국정보처리학회}}
 ```
 
 ## 2단계 3차년도(2020.04 ~ 2021.03)
+* 국제학술지 2건, 국제학회 1건
 ### 인공지능기반 자동 프로그램 수정 연구 동향
 ```tex
 @article{정호현2020인공지능기반,
@@ -173,5 +189,17 @@ number={3},
 pages={1--66},
 year={2021},
 publisher={Springer}
+}
+```
+
+### CoVerCoDy: Condition-based View Modeling for Handling Complex & Dynamic UIs
+```tex
+@electronic{jeong2020covercody,
+title={CoVerCoDy: Condition-based View Modeling for Handling Complex & Dynamic UIs},
+author={정호현 and 장동민 and 허진석 and 이은석},
+year={2020},
+howpublished="[YouTube Video]",
+publisher={S-TOP: Sungkyun Tech Open Party},
+url="https://youtu.be/ygFsa7g_0Co"
 }
 ```
