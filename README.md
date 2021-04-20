@@ -15,14 +15,12 @@
 
 ## ToC
 - [2단계 1차년도(2018.06 ~ 2019.05)](#2단계-1차년도201806--201905)
-  - 국제학회 2건
 - [2단계 2차년도(2019.06 ~ 2020.03)](#2단계-2차년도201906--202003)
-  - 국제학술지 2건, 국내학회 1건
 - [2단계 3차년도(2020.04 ~ 2021.03)](#2단계-3차년도202004--202103)
-  - 국제학술지 4건, 국내학술지 2건, 국제학회 1건, 국내학회 2건, 공개발표회 1건
 
 ## 2단계 1차년도(2018.06 ~ 2019.05)
-### Improving the Efficiency of Search-Based Auto Program Repair by Adequate Modification Point
+#### S-1-1. Improving the Efficiency of Search-Based Auto Program Repair by Adequate Modification Point (국제학회: IMCOM)
+- DOI: https://doi.org/10.1007/978-3-030-19063-7_56
 ```tex
 @inproceedings{jang2019improving,
 title={Improving the Efficiency of Search-Based Auto Program Repair by Adequate Modification Point},
@@ -33,7 +31,8 @@ year={2019},
 organization={Springer}
 }
 ```
-### Dynamic Invariant Prioritization-Based Fault Localization
+#### S-1-2. Dynamic Invariant Prioritization-Based Fault Localization (국제학회: IMCOM)
+- DOI: https://doi.org/10.1007/978-3-030-19063-7_55
 ```tex
 @inproceedings{lee2019dynamic,
 title={Dynamic Invariant Prioritization-Based Fault Localization},
@@ -46,7 +45,8 @@ organization={Springer}
 ```
 ---
 ## 2단계 2차년도(2019.06 ~ 2020.03)
-### VFL: Variable-based fault localization
+#### S-2-1. VFL: Variable-based fault localization (국제학술지: IST)
+- DOI: https://doi.org/10.1016/j.infsof.2018.11.009
 ```tex
 @article{kim2019vfl,
 title={VFL: Variable-based fault localization},
@@ -58,7 +58,8 @@ year={2019},
 publisher={Elsevier}
 }
 ```
-### Modification Point Aware Test Prioritization and Sampling to Improve Patch Validation in Automatic Program Repair
+#### S-2-2. Modification Point Aware Test Prioritization and Sampling to Improve Patch Validation in Automatic Program Repair (국제학술지: AS)
+- DOI: https://doi.org/10.3390/app10051593
 ```tex
 @article{venugopal2020modification,
 title={Modification Point Aware Test Prioritization and Sampling to Improve Patch Validation in Automatic Program Repair},
@@ -72,7 +73,8 @@ publisher={Multidisciplinary Digital Publishing Institute}
 }
 ```
 
-### 스테이트먼트 유형 정보를 활용한 옳은 패치 생성률 증대 기법
+#### S-2-3. 스테이트먼트 유형 정보를 활용한 옳은 패치 생성률 증대 기법 (국내학회: KCSE)
+- PDF: 
 ```tex
 @inproceedings{허진석2020스테, 
 title={스테이트먼트 유형 정보를 활용한 옳은 패치 생성률 증대 기법}, 
@@ -84,7 +86,8 @@ organization={한국정보과학회, 한국정보처리학회}}
 ```
 
 ## 2단계 3차년도(2020.04 ~ 2021.03)
-### 인공지능기반 자동 프로그램 수정 연구 동향
+#### S-3-1. 인공지능기반 자동 프로그램 수정 연구 동향 (국내학술지: KIISE)
+- DBpia: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09325032
 ```tex
 @article{정호현2020인공지능기반,
 title={인공지능기반 자동 프로그램 수정 연구 동향},
@@ -96,7 +99,8 @@ pages={28--34},
 year={2020}
 }
 ```
-### A Novel Debugging Technique Based on Lightweight Crash Report Considering Security.
+#### S-3-2. A Novel Debugging Technique Based on Lightweight Crash Report Considering Security (국제학술지: JISE)
+- DOI: https://doi.org/10.6688/JISE.202005_36(3).0002
 ```tex
 @article{jang2020novel,
 title={A Novel Debugging Technique Based on Lightweight Crash Report Considering Security.},
@@ -107,7 +111,8 @@ number={3},
 year={2020}
 }
 ```
-### 옳은 패치 생성 효율 증대를 위한 구조적 정보 관점에서의 과거 패치 분석
+#### S-3-3. 옳은 패치 생성 효율 증대를 위한 구조적 정보 관점에서의 과거 패치 분석 (국내저널: KCC)
+- DBpia: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09874408
 ```tex
 @inproceedings{허진석2020옳은,
 title={옳은 패치 생성 효율 증대를 위한 구조적 정보 관점에서의 과거 패치 분석},
@@ -117,7 +122,8 @@ pages={266--268},
 year={2020}
 }
 ```
-### ManQ: Many-objective optimization-based automatic query reduction for IR-based bug localization
+#### S-3-4. ManQ: Many-objective optimization-based automatic query reduction for IR-based bug localization (국제학회: IST)
+- DOI: https://doi.org/10.1016/j.infsof.2020.106334
 ```tex
 @article{kim2020manq,
 title={ManQ: Many-objective optimization-based automatic query reduction for IR-based bug localization},
@@ -129,7 +135,8 @@ year={2020},
 publisher={Elsevier}
 }
 ```
-### Incremental Formula-Based Fix Localization
+#### S-3-5. Incremental Formula-Based Fix Localization (국제학술지: AS)
+- DOI: https://doi.org/10.3390/app11010303
 ```tex
 @article{phung2021incremental,
 title={Incremental Formula-Based Fix Localization},
@@ -142,7 +149,8 @@ year={2021},
 publisher={Multidisciplinary Digital Publishing Institute}
 }
 ```
-### 패치탐사 효율성 증대를 위한 컨텍스트 및 수정패턴에 대한 분석
+#### S-3-6. 패치탐사 효율성 증대를 위한 컨텍스트 및 수정패턴에 대한 분석 (국내학술지: KIISE)
+- DBpia: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10501426
 ```tex
 @article{허진석2020패치탐사,
 title={패치탐사 효율성 증대를 위한 컨텍스트 및 수정패턴에 대한 분석},
@@ -154,7 +162,8 @@ pages={556--560},
 year={2020}
 }
 ```
-### Feature Combination to Alleviate Hubness Problem of Source Code Representation for Bug Localization
+#### S-3-7. Feature Combination to Alleviate Hubness Problem of Source Code Representation for Bug Localization (국제학회: APSEC)
+- DOI: https://doi.org/10.1109/APSEC51365.2020.00068
 ```tex
 @inproceedings{kim2020feature,
 title={Feature Combination to Alleviate Hubness Problem of Source Code Representation for Bug Localization},
@@ -165,7 +174,8 @@ year={2020},
 organization={IEEE}
 }
 ```
-### 패치 우선순위화를 위한 소스 코드 표현방식에 따른 유사도 계산 기법 별 영향도 분석
+#### S-3-8. 패치 우선순위화를 위한 소스 코드 표현방식에 따른 유사도 계산 기법 별 영향도 분석 (국내학회: KCSE)
+- PDF: 
 ```tex
 @inproceedings{허진석2021패치,
 title={패치 우선순위화를 위한 소스 코드 표현방식에 따른 유사도 계산 기법 별 영향도 분석},
@@ -176,7 +186,8 @@ year={2021},
 organization={한국정보과학회, 한국정보처리학회}
 }
 ```
-### Are datasets for information retrieval-based bug localization techniques trustworthy?
+#### S-3-9. Are datasets for information retrieval-based bug localization techniques trustworthy? (국제학술지: ESE)
+- DOI: https://doi.org/10.1007/s10664-021-09946-8
 ```tex
 @article{kim2021datasets,
 title={Are datasets for information retrieval-based bug localization techniques trustworthy?},
@@ -190,7 +201,8 @@ publisher={Springer}
 }
 ```
 
-### CoVerCoDy: Condition-based View Modeling for Handling Complex & Dynamic UIs
+#### S-3-10. CoVerCoDy: Condition-based View Modeling for Handling Complex & Dynamic UIs (보고서)
+- PDF: 
 ```tex
 @electronic{jeong2020covercody,
 title={CoVerCoDy: Condition-based View Modeling for Handling Complex & Dynamic UIs},
