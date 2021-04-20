@@ -74,7 +74,7 @@ publisher={Multidisciplinary Digital Publishing Institute}
 ```
 
 #### S-2-3. 스테이트먼트 유형 정보를 활용한 옳은 패치 생성률 증대 기법 (국내학회: KCSE)
-- PDF: 
+- PDF: [S-2-3 스테이트먼트 유형 정보를 활용한 옳은 패치 생성률 증대 기법](https://github.com/SKKUSElab/NGICDP_Div3_SKKU/blob/main/stage2year2/S-2-3%20%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%8A%B8%EB%A8%BC%ED%8A%B8%20%EC%9C%A0%ED%98%95%20%EC%A0%95%EB%B3%B4%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%98%B3%EC%9D%80%20%ED%8C%A8%EC%B9%98%20%EC%83%9D%EC%84%B1%EB%A5%A0%20%EC%A6%9D%EB%8C%80%20%EA%B8%B0%EB%B2%95.pdf)
 ```tex
 @inproceedings{허진석2020스테, 
 title={스테이트먼트 유형 정보를 활용한 옳은 패치 생성률 증대 기법}, 
@@ -175,7 +175,7 @@ organization={IEEE}
 }
 ```
 #### S-3-8. 패치 우선순위화를 위한 소스 코드 표현방식에 따른 유사도 계산 기법 별 영향도 분석 (국내학회: KCSE)
-- PDF: 
+- PDF: [S-3-8 패치 우선순위화를 위한 소스 코드 표현방식에 따른 유사도 계산 기법 별 영향도 분석](https://github.com/SKKUSElab/NGICDP_Div3_SKKU/blob/main/stage2year3/S-3-9%20%ED%8C%A8%EC%B9%98%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%99%94%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%86%8C%EC%8A%A4%20%EC%BD%94%EB%93%9C%20%ED%91%9C%ED%98%84%EB%B0%A9%EC%8B%9D%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EC%9C%A0%EC%82%AC%EB%8F%84%20%EA%B3%84%EC%82%B0%20%EA%B8%B0%EB%B2%95%20%EB%B3%84%20%EC%98%81%ED%96%A5%EB%8F%84%20%EB%B6%84%EC%84%9D.pdf)
 ```tex
 @inproceedings{허진석2021패치,
 title={패치 우선순위화를 위한 소스 코드 표현방식에 따른 유사도 계산 기법 별 영향도 분석},
@@ -201,8 +201,8 @@ publisher={Springer}
 }
 ```
 
-#### S-3-10. CoVerCoDy: Condition-based View Modeling for Handling Complex & Dynamic UIs (보고서)
-- PDF: 
+#### S-3-10. CoVerCoDy: Condition-based View Modeling for Handling Complex & Dynamic UIs (공개영상)
+- URL: https://youtu.be/ygFsa7g_0Co
 ```tex
 @electronic{jeong2020covercody,
 title={CoVerCoDy: Condition-based View Modeling for Handling Complex & Dynamic UIs},
